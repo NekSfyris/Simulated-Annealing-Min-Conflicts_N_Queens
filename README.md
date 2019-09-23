@@ -15,7 +15,7 @@ Arguments :
 
 + N: the size of problem (NxN board), N-Queens
 
-+ algorithm: choode -SA, or -MC for (Simulated annealing or Min conflicts)
++ algorithm: choose -SA, or -MC for (Simulated annealing or Min conflicts)
 
 ### Output
 

@@ -9,7 +9,7 @@ Tested with python2.7 and Ubuntu 16.04.
 
 To run the program open a terminal and : 
 ```
-$ python2.7 app.py -N -algorith
+$ python2.7 app.py -N -algorithm
 ```
 Arguments :
 
